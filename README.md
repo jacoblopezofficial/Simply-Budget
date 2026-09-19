@@ -4,6 +4,13 @@ Simply Budget is a forward-looking budgeting and cash-flow planning app for iOS,
 
 The app allows users to manually plan upcoming income and expenses and see how those transactions affect their projected balance.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/simply-budget-overview.jpg" width="300">
+  <img src="Screenshots/simply-budget-summary.jpg" width="300">
+</p>
+
 ## Features
 
 - Monthly budget planning
@@ -26,10 +33,7 @@ The app allows users to manually plan upcoming income and expenses and see how t
 
 ## Project Status
 
-Simply Budget is currently in development. This is my first independent SwiftUI project and is being built as a hands-on way to learn iOS development.
-## Screenshots
+Simply Budget is currently in development. This is my first independent SwiftUI project and is being built as a hands-on way to learn iOS development, SwiftUI architecture, and source control with Git.
 
-<p align="center">
-  <img src="Screenshots/simply-budget-overview.jpg" width="300">
-  <img src="Screenshots/simply-budget-summary.jpg" width="300">
-</p>
+
+
