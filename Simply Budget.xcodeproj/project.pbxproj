@@ -6,8 +6,13 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DC4901D4305E4E410057BB23 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DC4901D3305E4E2B0057BB23 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* Simply Budget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Simply Budget.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC4901D3305E4E2B0057BB23 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -30,6 +35,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				DC4901D3305E4E2B0057BB23 /* README.md */,
 				000000000000000000000010 /* Simply Budget */,
 				000000000000000000000020 /* Products */,
 			);
@@ -102,6 +108,7 @@
 		000000000000000140000000 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				DC4901D4305E4E410057BB23 /* README.md in Resources */,
 			);
 		};
 /* End PBXResourcesBuildPhase section */
