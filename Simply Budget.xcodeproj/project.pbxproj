@@ -13,6 +13,8 @@
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* Simply Budget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Simply Budget.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC4901D3305E4E2B0057BB23 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DC4901D6305E50F20057BB23 /* simply-budget-overview.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "simply-budget-overview.jpg"; sourceTree = "<group>"; };
+		DC4901D7305E50F20057BB23 /* simply-budget-summary.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "simply-budget-summary.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -36,6 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				DC4901D3305E4E2B0057BB23 /* README.md */,
+				DC4901D5305E50980057BB23 /* Screenshots */,
 				000000000000000000000010 /* Simply Budget */,
 				000000000000000000000020 /* Products */,
 			);
@@ -47,6 +50,15 @@
 				000000000000000000000120 /* Simply Budget.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		DC4901D5305E50980057BB23 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				DC4901D6305E50F20057BB23 /* simply-budget-overview.jpg */,
+				DC4901D7305E50F20057BB23 /* simply-budget-summary.jpg */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

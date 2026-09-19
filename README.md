@@ -27,3 +27,9 @@ The app allows users to manually plan upcoming income and expenses and see how t
 ## Project Status
 
 Simply Budget is currently in development. This is my first independent SwiftUI project and is being built as a hands-on way to learn iOS development.
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/simply-budget-overview.jpg" width="300">
+  <img src="Screenshots/simply-budget-summary.jpg" width="300">
+</p>
